@@ -31,3 +31,4 @@ dse hadoop jar giraph-hive-1.1.0-SNAPSHOT.jar org.apache.giraph.hive.HiveGiraphR
 -w 5 -vi "org.apache.giraph.hive.input.vertex.examples.HiveIntDoubleDoubleVertex, test1" -hiveconf hive.metastore.uris=thrift://localhost:10000
  
 # To del : for git
+# To del: check RHEL stand integration
