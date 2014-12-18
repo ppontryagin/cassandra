@@ -32,3 +32,4 @@ dse hadoop jar giraph-hive-1.1.0-SNAPSHOT.jar org.apache.giraph.hive.HiveGiraphR
  
 # To del : for git
 # To del: check RHEL stand integration
+# To del: check RHEL stand integration
