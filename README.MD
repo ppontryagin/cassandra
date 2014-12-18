@@ -30,4 +30,4 @@ dse hadoop jar giraph-1.1.0-SNAPSHOT-for-hadoop-1.2.1-jar-with-dependencies.jar 
 dse hadoop jar giraph-hive-1.1.0-SNAPSHOT.jar org.apache.giraph.hive.HiveGiraphRunner -computationClass org.apache.giraph.examples.SimpleShortestPathsComputation \ 
 -w 5 -vi "org.apache.giraph.hive.input.vertex.examples.HiveIntDoubleDoubleVertex, test1" -hiveconf hive.metastore.uris=thrift://localhost:10000
  
- 
+# To del : for git
